@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{F1842AFB-2FE0-4F71-91DD-7472C1C321AB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListAdapterPractice/Properties/AndroidManifest.xml">
+    <Files>
+      <File FileName="ListAdapterPractice/MainActivity.cs" Line="51" Column="38" />
+      <File FileName="ListAdapterPractice/Resources/layout/content_main.xml" Line="8" Column="27" />
+      <File FileName="ListAdapterPractice/Resources/layout/contact_file.xml" Line="1" Column="1" />
+      <File FileName="ListAdapterPractice/Resources/layout/activity_main.xml" Line="1" Column="1" />
+      <File FileName="ListAdapterPractice/Models/Contact.cs" Line="12" Column="1" />
+      <File FileName="ListAdapterPractice/Resources/DataSource/ContactHolder.cs" Line="17" Column="42" />
+      <File FileName="ListAdapterPractice/Resources/DataSource/RecyclerViewAdapterContacts.cs" Line="55" Column="23" />
+      <File FileName="ListAdapterPractice/Properties/AndroidManifest.xml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ListAdapterPractice" expanded="True" selected="True">
+            <Node name="ListAdapterPractice" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="DataSource" expanded="True" />
+                <Node name="layout" expanded="True" />
+                <Node name="values" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ListAdapterPractice AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
